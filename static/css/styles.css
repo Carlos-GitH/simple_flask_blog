@@ -379,6 +379,7 @@ select:disabled {
   display: none !important;
 }
 
+
 button,
 [type=button],
 [type=reset],
@@ -10795,4 +10796,8 @@ header.masthead .post-heading .meta a {
   .post-preview > a > .post-title {
     font-size: 2.25rem;
   }
+}
+
+.btn-primary:hover {
+  background-color: #5d6668;
 }
